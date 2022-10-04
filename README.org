@@ -2,3 +2,4 @@
   + webscrape the ap gov stream, see if people tend to reply to the same people
   + Using an online Kaggle dataset and analyze for specific data and possibly predictions
   + a program that does voting for some random question by asking random people, then making statistics information on it
+  + Webscrape AP gov stream, compare number of replies to bias of article (high left/right vs. little to none)
